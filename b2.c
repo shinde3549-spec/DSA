@@ -81,37 +81,4 @@ int main() {
 
     return 0;
 }
-/*
-How many users to save: 4
-
-Give information of user 1
-Enter your name: pushkar
-Enter your email ID: pushar@gmail
-Enter your mobile number: 344244
-
-Give information of user 2
-Enter your name: sager
-Enter your email ID: sager@gmail
-Enter your mobile number: 3453245577
-
-Give information of user 3
-Enter your name: krishna
-Enter your email ID: sonale@gmail
-Enter your mobile number: 34728335
-
-Give information of user 4
-Enter your name: aniket
-Enter your email ID: andy@gmail
-Enter your mobile number: 976756667
-Enter name to search: sager
-number of pass:1
-number of pass:2
-
-Contact Found:
-Name: sager
-Mobile:3453245577
-Email: sager@gmai
-
-Press Enter to return to Quincy...
-*/
 
